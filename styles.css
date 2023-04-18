@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    
+}
+.box1{
+    position: absolute;
+    right: 10px;
+}
+.box3{
+    position: relative;
+top: 205px;
+}
+.box4{
+    position: absolute;
+    right: 10px;
+}
+.mybtn{
+    text-align: center;
+    position: relative;
+    left: 600px;
+}
