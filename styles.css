@@ -3,19 +3,48 @@ body{
     
 }
 .box1{
+    width: 30%;
     position: absolute;
     right: 10px;
+    
+    
+}
+.box2{
+    width: 30%;
+    
+   
 }
 .box3{
-    position: relative;
-top: 205px;
+    width: 30%;
+    position: absolute;
+    margin-top: 40%;
+    bottom: 30px;    
 }
 .box4{
+    width: 30%;
     position: absolute;
+    margin-top: 60%;
     right: 10px;
+    bottom: 30px;
+    
+    
 }
 .mybtn{
-    text-align: center;
-    position: relative;
-    left: 600px;
+   margin-left: 30%;
+   margin-top: 30%;
+    
+    
 }
+.img1{
+   width: 50%;
+
+}
+.img2{
+    width: 50%;
+ }
+ .img3{
+    width: 50%;
+ }
+ .img4{
+    width: 50%;
+ }
